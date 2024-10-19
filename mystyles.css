@@ -5,7 +5,6 @@ body {
     margin: 0;
     padding: 0;
     background: url('bgimage.png') no-repeat center center fixed; 
-    /* Replace 'background.jpg' with the actual image name */
     background-size: cover; /* Make the image cover the entire background */
     color: #ffffff; /* Set text color for contrast */
 }
@@ -42,7 +41,7 @@ header nav ul li a {
 
 /* Change color on hover */
 header nav ul li a:hover {
-    color: #9999ff; /* Change to a different color, e.g., Tomato */
+    color: #9999ff; 
 }
 
 /* Section styling */
